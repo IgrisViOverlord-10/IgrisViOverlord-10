@@ -16,15 +16,17 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=60A5FA" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" /></a>
+<a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/Medium-Blog-0B0B0B?style=for-the-badge&logo=medium&logoColor=FFFFFF" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7F1D1D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+
 </p>
 
 ---
