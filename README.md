@@ -49,8 +49,6 @@ Strong emphasis on automation, infrastructure design, and real-world system depl
 
 Built through structured academic training and hands-on industry internships completed after 4th and 8th semesters, focusing on practical exposure across Data Science, Full Stack Development, and Cloud & DevOps domains.
 
----
-
 ## 🧬 Data Analytics & Data Science Internship  
 🏢 Varcons Technologies Pvt. Ltd. | 📍 Bangalore, India  
 
@@ -93,5 +91,82 @@ Built through structured academic training and hands-on industry internships com
 | Project | Details | Link |
 |--------|--------|------|
 | HireTrack – Recruitment Tracking System | Cloud-native recruitment system for automating hiring workflows, candidate tracking, and job management using CI/CD pipelines, Docker, Kubernetes, and AWS deployment practices | (In Progress) |
+
+---
+
+## 🎓 Academic Projects 
+
+<table width="100%" cellspacing="0" cellpadding="10">
+
+<tr>
+
+<td width="50%" valign="top" style="border:1px solid #e5e7eb; border-radius:10px;">
+
+<h3>🧪 Mid-Year Academic Project</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Level-Academic-64748b?style=flat-square" />
+</p>
+
+<p>
+Focused on building a strong foundation in Machine Learning and data-driven problem solving.  
+Worked on data preprocessing, model training, evaluation, and understanding end-to-end ML pipelines.
+</p>
+
+<p><b>Key Areas:</b></p>
+
+<ul>
+<li>Data preprocessing & feature engineering</li>
+<li>Model training & evaluation</li>
+<li>Exploratory data analysis</li>
+<li>ML pipeline understanding</li>
+</ul>
+
+<p><b>Outcome:</b> Strengthened practical ML fundamentals through hands-on experimentation with real datasets and model evaluation workflows.</p>
+
+<p>
+🔗 <a href="YOUR_LINK">View Project</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top" style="border:1px solid #e5e7eb; border-radius:10px;">
+
+<h3>🏆 Final-Year Academic Project</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Level-Production_Simulation-22c55e?style=flat-square" />
+</p>
+
+<p>
+Designed and developed a complete full-stack system with backend, frontend, database, and deployment workflow integration in a production-like environment.
+</p>
+
+<p><b>Key Areas:</b></p>
+
+<ul>
+<li>Full-stack application development</li>
+<li>REST API design & integration</li>
+<li>Authentication & database management</li>
+<li>Deployment workflow understanding</li>
+</ul>
+
+<p><b>Outcome:</b> Successfully built a production-style full-stack system demonstrating end-to-end development, integration, and deployment practices.</p>
+
+<p>
+🔗 <a href="YOUR_LINK">View Project</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
 
 ---
