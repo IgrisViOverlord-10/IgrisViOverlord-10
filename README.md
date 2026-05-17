@@ -100,38 +100,55 @@ Built through structured academic training and hands-on industry internships com
 
 <tr>
 
-<td width="50%" valign="top" style="border:1px solid #e5e7eb; border-radius:10px;">
+<td width="50%" valign="top">
 
 <h3>🧪 Mid-Year Academic Project</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Machine_Learning-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Level-Academic-64748b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model-Ridge_Regression-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployment-Flask_Web_App-22c55e?style=flat-square" />
 </p>
 
 <p>
-Focused on building a strong foundation in Machine Learning and data-driven problem solving.  
-Worked on data preprocessing, model training, evaluation, and understanding end-to-end ML pipelines.
+Built an end-to-end Machine Learning web application for predicting Bangalore house prices using property-related features such as location, BHK, bathrooms, and square feet.
+The project demonstrates practical implementation of data preprocessing, feature engineering, regression model evaluation, and Flask-based deployment.
 </p>
 
 <p><b>Key Areas:</b></p>
 
 <ul>
 <li>Data preprocessing & feature engineering</li>
-<li>Model training & evaluation</li>
-<li>Exploratory data analysis</li>
-<li>ML pipeline understanding</li>
+<li>Regression model training & evaluation</li>
+<li>Outlier handling & data cleaning</li>
+<li>Flask-based ML web application deployment</li>
+<li>Real-time house price prediction workflow</li>
 </ul>
 
-<p><b>Outcome:</b> Strengthened practical ML fundamentals through hands-on experimentation with real datasets and model evaluation workflows.</p>
+<p><b>Tech Stack:</b></p>
 
 <p>
-🔗 <a href="YOUR_LINK">View Project</a>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+</p>
+
+<p>
+<b>Outcome:</b> Successfully developed and deployed a complete ML prediction pipeline integrating model training, preprocessing, backend integration, and real-time prediction rendering through an interactive Flask interface.
+</p>
+
+<p>
+🔗 <a href="(https://github.com/IgrisViOverlord-10/DomusIntel)">View Project</a>
 </p>
 
 </td>
 
-<td width="50%" valign="top" style="border:1px solid #e5e7eb; border-radius:10px;">
+<td width="50%" valign="top">
 
 <h3>🏆 Final-Year Academic Project</h3>
 
@@ -153,7 +170,9 @@ Designed and developed a complete full-stack system with backend, frontend, data
 <li>Deployment workflow understanding</li>
 </ul>
 
-<p><b>Outcome:</b> Successfully built a production-style full-stack system demonstrating end-to-end development, integration, and deployment practices.</p>
+<p>
+<b>Outcome:</b> Successfully built a production-style full-stack system demonstrating end-to-end development, integration, and deployment practices.
+</p>
 
 <p>
 🔗 <a href="YOUR_LINK">View Project</a>
@@ -169,4 +188,3 @@ Designed and developed a complete full-stack system with backend, frontend, data
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
 
----
