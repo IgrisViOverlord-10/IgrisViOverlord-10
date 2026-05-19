@@ -44,7 +44,7 @@
 
 # ⚡ About Me
 
-Cloud & DevOps engineer focused on building scalable, production-grade systems.
+Cloud & DevOps enthusiast focused on building scalable, production-grade systems and deployment workflows.
 
 Experienced across:
 - Full Stack Development (Django, Flask, REST APIs)
@@ -177,7 +177,7 @@ Designed and developed a complete full-stack system with backend, frontend, data
 </p>
 
 <p>
-🔗 <a href="YOUR_LINK">View Project</a> # ---> Yet to add 
+🚧 Currently under development
 </p>
 
 </td>
@@ -205,6 +205,8 @@ Built through structured academic training and hands-on industry internships com
 |--------|--------|------|
 | DiseaseSense – ML Based Disease Prediction System | End-to-end ML system for predicting chronic disease risks using symptom datasets. Includes data preprocessing, EDA, model training, evaluation, and Django-based deployment | [View Repository](https://github.com/IgrisViOverlord-10/DiseaseSense) |
 
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
+
 ## 🌱 Full Stack Development Internship  
 🏢 Desert Storm Technologies Pvt. Ltd. | 📍 Bangalore, India  
 
@@ -217,6 +219,8 @@ Built through structured academic training and hands-on industry internships com
 | Project | Details | Link |
 |--------|--------|------|
 | FreshMart – Online Grocery System | Full-stack Django e-commerce platform featuring authentication, vendor workflows, inventory management, and order handling. Hosted on AWS EC2 with a production-grade deployment setup using Nginx and Gunicorn | [View Repository](https://github.com/IgrisViOverlord-10/FreshMart) |
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
 
 ## ☁️ Cloud & DevOps Training Program  
 🏢 Fortune Cloud Technologies Pvt. Ltd. | 📍 Bangalore, India  
