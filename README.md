@@ -143,7 +143,7 @@ The project demonstrates practical implementation of data preprocessing, feature
 </p>
 
 <p>
-🔗 <a href="(https://github.com/IgrisViOverlord-10/DomusIntel)">View Project</a>
+🔗 <a href="https://github.com/IgrisViOverlord-10/EstateIQ">View Project</a>
 </p>
 
 </td>
