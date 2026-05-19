@@ -203,7 +203,7 @@ Built through structured academic training and hands-on industry internships com
 
 | Project | Details | Link |
 |--------|--------|------|
-| DiseaseSense – ML Based Disease Prediction System | End-to-end ML system for predicting chronic disease risks using symptom datasets. Includes data preprocessing, EDA, model training, evaluation, and Django-based deployment | https://github.com/IgrisViOverlord-10/SymptoLogica |
+| DiseaseSense – ML Based Disease Prediction System | End-to-end ML system for predicting chronic disease risks using symptom datasets. Includes data preprocessing, EDA, model training, evaluation, and Django-based deployment | [View Repository](https://github.com/IgrisViOverlord-10/DiseaseSense) |
 
 ## 🌱 Full Stack Development Internship  
 🏢 Desert Storm Technologies Pvt. Ltd. | 📍 Bangalore, India  
@@ -216,7 +216,7 @@ Built through structured academic training and hands-on industry internships com
 
 | Project | Details | Link |
 |--------|--------|------|
-| FreshMart – Online Grocery System | Full-stack Django e-commerce platform with authentication, product management, vendor workflows, and order handling. Deployed on AWS EC2 using Nginx and Gunicorn | https://github.com/IgrisViOverlord-10/FructusHerba |
+| EstateIQ – Bangalore House Price Prediction System | End-to-end ML prediction system using Flask, Ridge Regression, preprocessing pipelines, and real-time prediction workflows | [View Repository](https://github.com/IgrisViOverlord-10/EstateIQ) |
 
 ## ☁️ Cloud & DevOps Training Program  
 🏢 Fortune Cloud Technologies Pvt. Ltd. | 📍 Bangalore, India  
