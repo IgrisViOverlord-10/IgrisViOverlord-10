@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28f4ed70-1e36-44a0-b6dc-b8028775ecef" /><div align="center">
-
 # 👨‍💻 Sai Ravi Chandran R
 
 <p align="center">
