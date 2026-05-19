@@ -42,6 +42,18 @@
 
 </p>
 
+# ⚡ About Me
+
+Cloud & DevOps engineer focused on building scalable, production-grade systems.
+
+Experienced across:
+- Full Stack Development (Django, Flask, REST APIs)
+- Data Science & ML pipelines (Pandas, NumPy, Scikit-learn)
+- Cloud deployments (AWS, EC2, Nginx)
+- DevOps workflows (Docker, Kubernetes, CI/CD)
+
+Strong emphasis on automation, infrastructure design, and real-world system deployment.
+
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
 
 # ⚙️ Tech Stack
@@ -81,18 +93,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-# ⚡ About Me
-
-Cloud & DevOps engineer focused on building scalable, production-grade systems.
-
-Experienced across:
-- Full Stack Development (Django, Flask, REST APIs)
-- Data Science & ML pipelines (Pandas, NumPy, Scikit-learn)
-- Cloud deployments (AWS, EC2, Nginx)
-- DevOps workflows (Docker, Kubernetes, CI/CD)
-
-Strong emphasis on automation, infrastructure design, and real-world system deployment.
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
 
