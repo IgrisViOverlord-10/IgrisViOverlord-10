@@ -177,7 +177,7 @@ Designed and developed a complete full-stack system with backend, frontend, data
 </p>
 
 <p>
-🔗 <a href="YOUR_LINK">View Project</a>
+🔗 <a href="YOUR_LINK">View Project</a> # ---> Yet to add 
 </p>
 
 </td>
@@ -216,7 +216,7 @@ Built through structured academic training and hands-on industry internships com
 
 | Project | Details | Link |
 |--------|--------|------|
-| EstateIQ – Bangalore House Price Prediction System | End-to-end ML prediction system using Flask, Ridge Regression, preprocessing pipelines, and real-time prediction workflows | [View Repository](https://github.com/IgrisViOverlord-10/EstateIQ) |
+| FreshMart – Online Grocery System | Full-stack Django e-commerce platform featuring authentication, vendor workflows, inventory management, and order handling. Hosted on AWS EC2 with a production-grade deployment setup using Nginx and Gunicorn | [View Repository](https://github.com/IgrisViOverlord-10/FreshMart) |
 
 ## ☁️ Cloud & DevOps Training Program  
 🏢 Fortune Cloud Technologies Pvt. Ltd. | 📍 Bangalore, India  
