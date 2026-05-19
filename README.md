@@ -1,4 +1,4 @@
-# 👨‍💻 Sai Ravi Chandran R
+<div align="center"> # 👨‍💻 Sai Ravi Chandran R
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast" />
