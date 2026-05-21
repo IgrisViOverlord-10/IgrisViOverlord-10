@@ -241,3 +241,62 @@ Built through structured academic training and hands-on industry internships com
 
 # 📜 Certifications
 
+<table width="100%" cellspacing="0" cellpadding="10">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps Certifications
+
+- AWS Cloud Practitioner *(Planned / In Progress)*
+- Docker Essentials
+- Kubernetes Fundamentals
+- Jenkins CI/CD Pipelines
+- Linux Administration Basics
+- GitHub Actions Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Development & Data Certifications
+
+- Python Programming
+- Data Analytics & Visualization
+- Machine Learning Fundamentals
+- Full Stack Development Training
+- REST API Development
+- SQL & Database Management
+
+</td>
+
+</tr>
+
+</table>
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
+
+# 📄 Resume
+
+<p align="left">
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-Download-0F172A?style=for-the-badge&logo=readthedocs&logoColor=38BDF8" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=60A5FA" />
+</a>
+
+</p>
+
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent);" />
+
+<div align="center">
+
+### ⚡ End of line.
+
+</div>
