@@ -2,13 +2,7 @@
 
 # 👨‍💻 Sai Ravi Chandran R
 
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast" />
-</p>
-
-### "You can’t go flat-out in life without mastering control first."
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00AEEF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast" />
 
 </div>
 
@@ -297,6 +291,6 @@ Built through structured academic training and hands-on industry internships com
 
 <div align="center">
 
-### ⚡ End of line.
+### "You can’t go flat-out in life without mastering control first."
 
 </div>
